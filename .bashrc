@@ -1,6 +1,6 @@
 # .bashrc
 
-# User specific aliases and functions
+# User sppecific aliases and functions
 . .alias
 alias ducks='du -cks * | sort -rn | head -15'
 
