@@ -1,0 +1,5 @@
+# CAEN Login
+Host mmd
+	HostName login.engin.umich.edu
+	User victoree
+	Compression yes
